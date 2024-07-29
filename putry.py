@@ -5,6 +5,18 @@ from nltk.corpus import wordnet
 from nltk.tokenize import word_tokenize, sent_tokenize
 import random
 
+st.set_page_config(
+    page_title='PYTRY CANTIK',
+    page_icon='logo.png',
+    #layout='wide',  
+    initial_sidebar_state='expanded',
+    menu_items={
+        'Get Help': 'https://www.extremelycoolapp.com/help',
+        'Report a bug': 'https://www.extremelycoolapp.com/bug',
+         'About': '# This is a header. This is an *extremely* cool app!'
+    }
+)
+
 # Pastikan resource NLTK telah diunduh
 nltk.download('punkt')
 nltk.download('wordnet')
