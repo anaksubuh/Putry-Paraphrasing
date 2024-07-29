@@ -1,1 +1,1 @@
-Robot analyzer untuk CHAT-GTP , by jojo.2801
+Robot analyzer untuk CHAT-GTP , by casper
