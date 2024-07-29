@@ -6,7 +6,7 @@ from nltk.tokenize import word_tokenize, sent_tokenize
 import random
 
 st.set_page_config(
-    page_title='PYTRY CANTIK',
+    page_title='PUTRY CANTIK',
     page_icon='logo.png',
     #layout='wide',  
     initial_sidebar_state='expanded',
